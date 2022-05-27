@@ -1,0 +1,5 @@
+ws2812_GFX.c:12:6:ws2812_rainbow	24	static
+ws2812_GFX.c:22:6:ws2812_randomHSV	24	static
+ws2812_GFX.c:29:6:ws2812_randomRGB	32	static
+ws2812_GFX.c:37:6:ws2812_stroboskopRGB	32	static
+ws2812_GFX.c:61:6:ws2812_stroboskopHSV	32	static

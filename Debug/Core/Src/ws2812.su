@@ -1,0 +1,12 @@
+ws2812.c:16:6:ws2812_init	16	static
+ws2812.c:20:6:ws2812_set_pixel	16	static
+ws2812.c:41:9:sine8	16	static
+ws2812.c:46:9:gamma8	16	static
+ws2812.c:51:6:ws2812_display	16	static
+ws2812.c:62:6:ws2812_clear	16	static
+ws2812.c:69:6:WS2812B_SetDiodeHSV	32	static
+ws2812.c:126:10:ColorHSV	32	static
+ws2812.c:187:10:gamma32	32	static
+ws2812.c:194:6:ws2812_SetPixes32	16	static
+ws2812.c:200:6:HAL_TIM_PWM_PulseFinishedCallback	24	static
+ws2812.c:255:6:HAL_TIM_PWM_PulseFinishedHalfCpltCallback	24	static
